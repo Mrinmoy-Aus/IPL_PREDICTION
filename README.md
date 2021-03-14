@@ -1,6 +1,6 @@
-<img src="https://www.spirit-of-metal.com/les%20goupes/C/Crud/pics/781097_logo.jpg">
+<img src="https://i.pinimg.com/originals/f0/fa/45/f0fa452ce5ec464e6f6539b36d308b82.jpg">
 
-# Create Read and Delete Operations
+# IPL PREDICTION
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
