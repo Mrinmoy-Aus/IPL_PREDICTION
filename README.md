@@ -11,17 +11,17 @@
 
 
 ### Code Requirements
-> Flask==1.1.1
-> gunicorn==19.9.0
-> itsdangerous==1.1.0
-> Jinja2==2.10.1
-> MarkupSafe==1.1.1
-> Werkzeug==0.15.5
-> numpy>=1.9.2
-> scipy>=0.15.1
-> scikit-learn>=0.18
-> matplotlib>=1.4.3
-> pandas>=0.19
+> Flask==1.1.1</br>
+> gunicorn==19.9.0</br>
+> itsdangerous==1.1.0</br>
+> Jinja2==2.10.1</br>
+> MarkupSafe==1.1.1</br>
+> Werkzeug==0.15.5</br>
+> numpy>=1.9.2</br>
+> scipy>=0.15.1</br>
+> scikit-learn>=0.18</br>
+> matplotlib>=1.4.3</br>
+> pandas>=0.19</br>
 
 ### System Requirements
 > Os supported: Ubuntu 18.04.5 LTS, windows 10, windows 8</br>
