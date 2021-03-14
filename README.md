@@ -3,7 +3,8 @@
 # IPL PREDICTION
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/) 
+[![HTML 5](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png)
 
 ### Contributor
 <a href="https://github.com/argho28"><img src="https://avatars3.githubusercontent.com/u/54744863?s=400&v=4" height="50px" width="50px" alt=""/></a>
