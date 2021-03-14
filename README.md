@@ -11,10 +11,17 @@
 
 
 ### Code Requirements
->numpy==1.19.1(pip install numpy)</br>
->XlsxWriter==1.3.7(pip install XlsxWriter)</br>
->pandas==1.1.5(pip install pandas)</br>
->openpyxl==3.0.5(pip install openpyxl)
+>Flask==1.1.1
+>gunicorn==19.9.0
+>itsdangerous==1.1.0
+>Jinja2==2.10.1
+>MarkupSafe==1.1.1
+>Werkzeug==0.15.5
+>numpy>=1.9.2
+>scipy>=0.15.1
+>scikit-learn>=0.18
+>matplotlib>=1.4.3
+>pandas>=0.19
 
 ### System Requirements
 > Os supported: Ubuntu 18.04.5 LTS, windows 10, windows 8</br>
