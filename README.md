@@ -32,6 +32,7 @@
 > Os supported: Ubuntu 18.04.5 LTS, windows 10, windows 8</br>
 > Ram: 4GB</br>
 > Space: 205.9 kB</br>
+> Graphics Card:2GB (minimum)</br>
 
 ### Install Packages
 > pip install -r requirements.txt
@@ -42,7 +43,10 @@
 - [x]  Thread safe supports multiprocessing
 
 ### To run the model:
-> python crud.py
+> python app.py
+
+### Hosted on web by using Heroku platform click on the link to see it:
+> https://mrinmoy-ipl-prediction.herokuapp.com/
 
 ### Screenshots
 
