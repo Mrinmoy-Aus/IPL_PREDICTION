@@ -53,38 +53,15 @@
 ### Basic UI
 <img src="https://github.com/Mrinmoy-Aus/IPL_PREDICTION/blob/main/ui.png">
 
-### 1. Working:
+### Working:
 > Demo of the project.
 <img src="https://github.com/Mrinmoy-Aus/IPL_PREDICTION/blob/main/working.gif">
 
-### 2. Initialize:
-> In this module we can save a new file or if not specified it will be stored in the default project directory.
-<img src="https://github.com/argho28/Create_Read_Delete/blob/main/save.png">
+### How it works behind the scene:
+> This project is a prediction system which helps us predicting sores of a IPL match. In the csv file the dataset which I have used to basically predict the scores on the basis of batting team, bowling team , overs, runs , wickets,runs scored in previous over,wickets taken at previous over. I have used Lasso regression not only helps in reducing over-fitting but it can help us in feature selection.
 
-### How it works? See:)
-<img src="https://github.com/argho28/Create_Read_Delete/blob/main/output.gif">
+### Lasso regression
+Ridge and Lasso regression are some of the simple techniques to reduce model complexity and prevent over-fitting which may result from simple linear regression.
 
-### 3. Create:
-> In this module an user can insert key value pair in the database.The key is a string capped at 32chars and value is a json object capped at 16kb.The system throws proper error message for duplicate keys also.This module also supports time-to-live property if specified it will retain for the said time in the data store or else it will assume it to be infinite time if not specified.
-<img src="https://github.com/argho28/Create_Read_Delete/blob/main/create.png">
-<img src="https://github.com/argho28/Create_Read_Delete/blob/main/duplicate_error.png">
-
-### 4. Read:
-> In this module an user have to specify the key for which the respective json object will be extracted from the database and displayed in the value field.The system throws proper error message if the key is not present in the data store.This module also supports time-to-live property and does not allow read operations if the record has expired and proper messages are also generated for the said property. 
-<img src="https://github.com/argho28/Create_Read_Delete/blob/main/read.png">
-<img src="https://github.com/argho28/Create_Read_Delete/blob/main/read_error.png">
-<img src="https://github.com/argho28/Create_Read_Delete/blob/main/time-to-live.png">
-
-### 5. Delete:
-> In this module an user have to specify the key for which the respective value has to be deleted.The system throws proper error message if the key is not present in the data store.This module also supports time-to-live property and does not allow delete operations if the record has expired and proper messages are also generated for the said property.
-<img src="https://github.com/argho28/Create_Read_Delete/blob/main/delete.png">
-<img src="https://github.com/argho28/Create_Read_Delete/blob/main/delete_error.png">
-<img src="https://github.com/argho28/Create_Read_Delete/blob/main/time-to-live.png">
-
-### 6. Show:
-> This module extracts all the information from the database and makes it visible in a tabular format to the user.This module also supports time-to-live property and does not retain the records whose specified time limit has expired.
-<img src="https://github.com/argho28/Create_Read_Delete/blob/main/show.png">
-
-### 7.	Clear:
-> This module clears all the data present in Key,Value and Time-to-live input fields respectively.
-<img src="https://github.com/argho28/Create_Read_Delete/blob/main/clear.gif">
+### Motivatiom:
+> Cricket lover. All credits to my god for assissting me.
