@@ -51,7 +51,7 @@
 ### Screenshots
 
 ### Basic UI
-<img src="https://github.com/argho28/Create_Read_Delete/blob/main/ui.png">
+<img src="https://github.com/Mrinmoy-Aus/IPL_PREDICTION/blob/main/ui.png">
 
 ### 1. Open a file:
 > In this module we have to open one existing file in which the Create,Read and Delete operations will be done.
