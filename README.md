@@ -53,9 +53,9 @@
 ### Basic UI
 <img src="https://github.com/Mrinmoy-Aus/IPL_PREDICTION/blob/main/ui.png">
 
-### 1. Open a file:
-> In this module we have to open one existing file in which the Create,Read and Delete operations will be done.
-<img src="https://github.com/argho28/Create_Read_Delete/blob/main/open.png">
+### 1. Working:
+> Demo of the project.
+<img src="https://github.com/Mrinmoy-Aus/IPL_PREDICTION/blob/main/working.gif">
 
 ### 2. Initialize:
 > In this module we can save a new file or if not specified it will be stored in the default project directory.
